@@ -1,4 +1,4 @@
-# C# and .NET Framework Portfolio - Azad Akdeniz
+# C# and .NET Framework Portfolio - Ugur Saganci
 
 This repository showcases my journey and technical expertise gained through various C# projects using the .NET Framework. Each project demonstrates different aspects of software development, from basic programming concepts to advanced architectural patterns.
 
